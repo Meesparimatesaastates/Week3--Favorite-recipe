@@ -1,0 +1,47 @@
+body{
+    background-color: aquamarine; 
+    text-align: justify; 
+    border: 1px solid black;
+    width: auto;
+            }
+.heading {
+     text-align: center; 
+    font-style: italic;
+    font-size: 3rem;
+}
+.ingredients{
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+.Ingreadients-table{
+    padding: 10px;
+    border: 10px;
+    width: 75%;
+}
+.spices{
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+.preparing-for-cooking{
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+.preparing {
+    margin: 0auto;
+}
+.Serving-food{
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+.bon-appetit{
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+.task-completed{
+    text-align: center; font-style: italic;
+}
