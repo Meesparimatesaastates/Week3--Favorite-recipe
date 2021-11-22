@@ -9,17 +9,25 @@ body{
     font-style: italic;
     font-size: 3rem;
 }
+.salmon{
+    margin: 0 auto;
+    width: 50%;
+    image-resolution: 100%;
+    
+}
 .ingredients{
     font-size: 25px;
     font-style: italic;
     text-align: center;
 }
 .Ingreadients-table{
+    margin: 0 auto;
     padding: 10px;
     border: 10px;
     width: 75%;
 }
 .spices{
+    margin: 0 auto;
     font-size: 25px;
     font-style: italic;
     text-align: center;
@@ -30,9 +38,10 @@ body{
     text-align: center;
 }
 .preparing {
-    margin: 0auto;
+    margin: 0 auto;
 }
 .Serving-food{
+   
     font-size: 25px;
     font-style: italic;
     text-align: center;
